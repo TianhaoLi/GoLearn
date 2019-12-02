@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2f66813-79db-4ab1-b583-18e3624686c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/go_dev/part5/1_resolvetime.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/go_dev/part5/2_passbyvalue.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/go_dev/part5/3_strproc.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/go_dev/part5/4_funcimplinterface.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/go_dev/part5/5_accumulator.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/go_dev/part5/6_playergen.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/go_dev/part5/7_printtypevalue.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part5/10_parseerr.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part5/11_protectrun.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part5/8_variadictransfer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part5/9_diverr.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
