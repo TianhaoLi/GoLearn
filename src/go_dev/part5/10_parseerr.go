@@ -18,7 +18,7 @@ func newParseError(filename string, line int) error {
 func main() {
 	var e error
 
-	e = newParseError("main.go",1)
+	e = newParseError("3_main.go",1)
 	fmt.Println(e.Error())
 
 	switch detail := e.(type){

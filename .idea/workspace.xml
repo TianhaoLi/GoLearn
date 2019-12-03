@@ -2,11 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2f66813-79db-4ab1-b583-18e3624686c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/go_dev/part5/10_parseerr.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/go_dev/part5/11_protectrun.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/go_dev/part5/8_variadictransfer.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/go_dev/part5/9_diverr.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part6/10_humanbird.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part6/11_carinit.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part6/12_embedstruct.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part6/13_splitjson.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part6/1_vec.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part6/2_player.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part6/3_main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part6/4_typemethod.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part6/5_httpreq.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part6/6_delegate.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part6/7_reg.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part6/9_main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part7/1_datawriter.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part7/2_logger/console.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part7/2_logger/file.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part7/2_logger/logger.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part7/2_logger/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part7/3_sortstring.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part7/4_sortstruct.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part7/5_birdpig.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part7/6_dict.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part7/7_cashdailypay.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part7/8_fsm/info.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part7/8_fsm/state.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part7/8_fsm/statemgr.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_dev/part5/10_parseerr.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_dev/part5/10_parseerr.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +59,12 @@
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project\src\go_dev\part7" />
+      <recent name="D:\project\src\go_dev\part7\2_logger" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -57,7 +85,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
