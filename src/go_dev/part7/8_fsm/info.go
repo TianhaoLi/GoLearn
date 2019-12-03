@@ -14,7 +14,7 @@ func (s *StateInfo) setName(name string) {
 	s.name = name
 }
 
-func (s *StateInfo) EnableTransit() bool{
+func (s *StateInfo) EnableSameTransit() bool{
 	return false
 }
 
