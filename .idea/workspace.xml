@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2f66813-79db-4ab1-b583-18e3624686c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/go_dev/part8/clsfactory/base/factory.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/go_dev/part8/clsfactory/cls1/reg.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/go_dev/part8/clsfactory/cls2/reg.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/go_dev/part8/clsfactory/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part9/1_forchan.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part9/2_conprint.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part9/3_rpc.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part9/4_delaycall.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part9/5_timer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part9/6_closedchannel.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part9/7_sever.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
