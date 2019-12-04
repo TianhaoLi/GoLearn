@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2f66813-79db-4ab1-b583-18e3624686c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/go_dev/part9/12_waitgroup.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/go_dev/part9/7_telnetecho/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/go_dev/part9/7_telnetecho/server.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/go_dev/part9/7_telnetecho/session.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/go_dev/part9/7_telnetecho/telnet.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part10/1_typemember.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part10/2_typemember.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part10/3_validnisnil.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part10/4_reflectcall.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part10/5_marshaljson/any.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part10/5_marshaljson/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part10/5_marshaljson/marshal.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part10/5_marshaljson/slice.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part10/5_marshaljson/struct.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_dev/part9/7_sever.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_dev/part9/11_racedetect.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
