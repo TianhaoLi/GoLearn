@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2f66813-79db-4ab1-b583-18e3624686c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pkg/windows_amd64/github.com/pkg/profile.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/go_dev/part11/benchmark_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/go_dev/part11/cpu.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/go_dev/part11/cpu.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/go_dev/part11/cpu.pprof" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/go_dev/part11/helloworld_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part12/1_overcreatechan.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part12/2_exitnotify.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part12/3_classic.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part12/4_multikey.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part12/5_tcppkt/acceptor.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part12/5_tcppkt/connector.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part12/5_tcppkt/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part12/5_tcppkt/packet.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part12/5_tcppkt/session.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,11 +65,15 @@
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/go_dev/part9/7_telnetecho" />
-    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/go_dev/part12" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\src\go_dev\part12" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project\src\go_dev\part12\5_tcppkt" />
       <recent name="D:\project\src\go_dev\part8\clsfactory\cls1" />
       <recent name="D:\project\src\go_dev\part7" />
       <recent name="D:\project\src\go_dev\part7\2_logger" />
