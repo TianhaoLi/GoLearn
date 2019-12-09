@@ -2,15 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2f66813-79db-4ab1-b583-18e3624686c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/go_dev/part12/1_overcreatechan.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/go_dev/part12/2_exitnotify.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/go_dev/part12/3_classic.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/go_dev/part12/4_multikey.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/go_dev/part12/5_tcppkt/acceptor.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/go_dev/part12/5_tcppkt/connector.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/go_dev/part12/5_tcppkt/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/go_dev/part12/5_tcppkt/packet.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/go_dev/part12/5_tcppkt/session.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/cellnet-master.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part13/chatbycellnet/cellnet/codec.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part13/chatbycellnet/cellnet/codec/json/json.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part13/chatbycellnet/cellnet/internal/log.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part13/chatbycellnet/cellnet/internal/sesmgr.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part13/chatbycellnet/cellnet/log.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part13/chatbycellnet/cellnet/meta.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part13/chatbycellnet/cellnet/packet/log.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part13/chatbycellnet/cellnet/packet/packet.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part13/chatbycellnet/cellnet/packet/pktreader.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part13/chatbycellnet/cellnet/packet/pktwriter.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part13/chatbycellnet/cellnet/packet/recv.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part13/chatbycellnet/cellnet/packet/send.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part13/chatbycellnet/cellnet/packet/setup.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part13/chatbycellnet/cellnet/peer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part13/chatbycellnet/cellnet/queue.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part13/chatbycellnet/cellnet/socket/acceptor.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part13/chatbycellnet/cellnet/socket/connector.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part13/chatbycellnet/cellnet/socket/event.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part13/chatbycellnet/cellnet/socket/log.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part13/chatbycellnet/cellnet/socket/peer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part13/chatbycellnet/cellnet/socket/session.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part13/chatbycellnet/cellnet/test/test_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part13/chatbycellnet/chat/client/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part13/chatbycellnet/chat/proto/chat.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part13/chatbycellnet/chat/server/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part13/chatbycellnet/golog/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part13/chatbycellnet/golog/color.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part13/chatbycellnet/golog/color_sample.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part13/chatbycellnet/golog/level.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part13/chatbycellnet/golog/log.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part13/chatbycellnet/golog/log_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part13/chatbycellnet/golog/log_windows.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/part13/chatbycellnet/golog/manager.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,6 +71,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
     <option name="urls">
       <list>
         <option value="file://$PROJECT_DIR$" />
@@ -65,18 +92,19 @@
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/go_dev/part12" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/go_dev/part13/chatbycellnet/chat/client" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\project\src\go_dev\part12" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\project\src\go_dev\part12\5_tcppkt" />
       <recent name="D:\project\src\go_dev\part8\clsfactory\cls1" />
       <recent name="D:\project\src\go_dev\part7" />
       <recent name="D:\project\src\go_dev\part7\2_logger" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\src\go_dev\part12" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -92,12 +120,13 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="go build main.go main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+    <configuration name="client" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="project" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="DIRECTORY" />
       <filePath value="$PROJECT_DIR$/src/go_dev/part9/7_telnetecho/main.go" />
-      <directory value="$PROJECT_DIR$/src/go_dev/part9/7_telnetecho" />
+      <directory value="$PROJECT_DIR$/src/go_dev/part13/chatbycellnet/chat/client" />
+      <output_directory value="$PROJECT_DIR$/src/go_dev/part13/chatbycellnet/chat" />
       <method v="2" />
     </configuration>
   </component>
